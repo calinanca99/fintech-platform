@@ -2,4 +2,5 @@
 
 members = [
     "accounting",
+    "matching-engine"
     ]
